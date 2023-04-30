@@ -4,6 +4,7 @@
 
 using namespace std;
 
+//Структура пары
 struct My_pair
 {
     double first;
