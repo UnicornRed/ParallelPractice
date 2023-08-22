@@ -500,7 +500,7 @@ void test(double a, double b, int n)
 
     cout << "Time work: " << (t2 - t1) * 1000 << "ms\n";
 
-    //output_spline(n, spline1, spline2);
+    output_spline(n, spline1, spline2);
 
     delete[] argValue;
     spline1->deleteSpline();
